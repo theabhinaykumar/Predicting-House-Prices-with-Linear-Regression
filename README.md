@@ -31,7 +31,7 @@ This project builds a **Linear Regression model** to predict house prices based 
 ✔ **Higher Customer Satisfaction**: Transparent pricing reduces disputes and increases trust in the market.  
 
 ## Author
-Your Name
+Abhinay kumar
 
 ---
-For questions, reach out via [LinkedIn](https://linkedin.com/in/yourprofile).
+For questions, reach out via [LinkedIn](https://linkedin.com/in/theabhinaykumar).
